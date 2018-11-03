@@ -2,6 +2,8 @@
 
 Onedrivecli is a program which can organize your cloud from command line
 
+![alt text](https://github.com/PanSem/onedrivecli/blob/master/ps.png)
+
 ## Installation
 
 ### Requirements
