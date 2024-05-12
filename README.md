@@ -1,6 +1,6 @@
 # OneDrivecli ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-Onedrivecli is a program which can organize your cloud from command line
+Onedrivecli is a program that allows you to organize your cloud storage from the command line
 
 ![alt text](https://github.com/PanSem/onedrivecli/blob/master/ps.png)
 
@@ -14,13 +14,13 @@ Onedrivecli is a program which can organize your cloud from command line
 
 ## Usage
 
-* Type onedrivecli after installation in your command line
+* After installing Onedrivecli, simply type ‘onedrivecli’ in your command line.
 * Type your username and password
 
 * You are ready to go.
 
 ## Development
-You can download the repository and add/change functionality as you like
+Feel free to download the repository and customize or enhance its functionality to your liking
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
